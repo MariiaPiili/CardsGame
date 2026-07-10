@@ -9,7 +9,7 @@ This project recreates the complete gameplay loop of the traditional game, inclu
 ## Screenshot
 
 <p align="center">
-  <img src="Images/gameplay.png" width="700" alt="Gameplay Screenshot">
+  <img src="photo_2026-07-10_10-12-22" width="700" alt="Gameplay Screenshot">
 </p>
 
 ---
